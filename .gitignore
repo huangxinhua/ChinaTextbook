@@ -1,0 +1,13 @@
+*.iml
+.idea/
+*/*
+/target
+.project
+/.settings
+/bin
+*.jar
+*.war
+*.java_bak
+.classpath
+.nfs*
+/repository/
